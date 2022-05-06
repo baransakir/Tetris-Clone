@@ -7,7 +7,7 @@ Keyboard Control
   - left arrow key, right arrow key -> horizontal move
   - up arrow key -> rotation
   - down arrow key -> vertical move (soft drop)
-  - space key-> hard drop
+  - space key -> hard drop
 
 Menu
   - P -> pause
