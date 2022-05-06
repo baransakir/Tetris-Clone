@@ -8,6 +8,7 @@ Keyboard Control
   - up arrow key -> rotation
   - down arrow key -> vertical move (soft drop)
   - space key-> hard drop
+
 Menu
   - P -> pause
   - R -> restart
